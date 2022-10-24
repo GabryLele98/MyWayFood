@@ -5,4 +5,4 @@ USER STORIES:
 
 	1)	As a <user>, I want a filtered list of recipes based on selected <search options> and my <preferencies>, so that I can find the perfect food for me.
 	2)	As a logged user, I want to <rate> recipes, so that I can help other users to choose the best recipe for them.
-	3)	As a food lover with little time, I want to have a suggestion of a menu based on my selected <search options>, so that I can save time in choosing the daily or weekly menu.
+	3)	As a food lover with little time, I want to have a suggestion of a <menu> (a list of foods) based on my selected <search options>, so that I can save time in choosing the daily or weekly menu.
