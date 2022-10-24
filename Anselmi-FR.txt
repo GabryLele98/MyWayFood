@@ -2,6 +2,6 @@ FUNCTIONAL REQUIREMENTS:
 
 (All the words highlighted with “<“ and “>” are keywords or words with a different meaning. The meaning of these words is specified into the Dictionary (Dictionary.pdf file).
 
-	1)	(link to US 1) The system shall provide a list of recipes based on selected  <search options> and <user> <preferencies>.
-	2)	(link to US 2) The system shall provide a recipes <rating> feature for logged users.
-	3)	The system shall provide a menu for logged users based on selected <search options>.
+	1)	The system shall provide a list of recipes based on selected  <search options> and <user> <preferencies>.
+	2)	The system shall provide a recipes <rating> feature for logged users.
+	3)	The system shall provide a <menu> (a list of foods) for logged users based on selected <search options>.
